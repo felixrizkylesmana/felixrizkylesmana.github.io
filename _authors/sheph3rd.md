@@ -1,9 +1,9 @@
 ---
 name: Felix Rizky Lesmana
 username: sheph3rd
+bio: "Fake Programmer :D, Based in Pontianak, Indonesia"
 site: https://felixrizkylesmana.github.io
 avatar: profile.jpg
-bio: "Fake Programmer :D, Based in Pontianak, Indonesia"
 email: rizky.lesmana999@gmail.com
 social:
   - title: "github"
