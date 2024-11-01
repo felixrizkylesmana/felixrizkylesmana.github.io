@@ -28,6 +28,13 @@ layout: default
         >
           <i class="fab fa-facebook-f"></i>
         </a>
+        {% endif %} {% if site.mastodon_username %}
+        <a
+          class="social-link"
+          href="http://mastodon.social{{ site.mastodon_username }}"
+        >
+          <i class="fab fa-mastodon"></i>
+        </a>
         {% endif %} {% if site.instagram_username %}
         <a
           class="social-link"
