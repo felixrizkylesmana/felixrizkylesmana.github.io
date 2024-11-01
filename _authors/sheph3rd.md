@@ -6,9 +6,8 @@ site: https://felixrizkylesmana.github.io
 avatar: profile.jpg
 email: rizky.lesmana999@gmail.com
 social:
-  - title: "github"
-     url: "https://github.com/felixrizkylesmana"
-  - title: "instagram"
-     url: "https://instagram.com/felixrizkylesmana"
-  - title: "medium"
+    - title: "github"
+      url: "https://github.com/felixrizkylesmana"
+    - title: "instagram"
+      url: "https://instagram.com/felixrizkylesmana"
 ---
