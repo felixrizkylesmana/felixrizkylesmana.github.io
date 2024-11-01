@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.JPEG
+author_logo: profile.jpg
 author: Felix Rizky Lesmana
 author_bio: Hi, my name is Felix Rizky Lesmana. This is my website :D
 author_email: "rizky.lesmana999@gmail.com"
