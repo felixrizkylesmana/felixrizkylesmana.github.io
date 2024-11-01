@@ -1,7 +1,7 @@
 ---
-title: Styleguide
+title: Bantuan
 layout: page
-permalink: /styleguide/
+permalink: /bantuan/
 ---
 
 
