@@ -35,17 +35,23 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 
 # Experiences
 author_work_experiences:
-            - company_name: FT Grafis
-              company_logo: 
+            - company_name: FT Grafis (2020 - 2021)
+              #company_logo: 
               company_url: 
               designation: Graphic Designer
               description: Worked as a Graphic Designer for about a year.
               visibility: true
-            - company_name: SMP Santa Monika & SMA Widya Pratama
-              company_logo: 
+            - company_name: SMP Santa Monika & SMA Widya Pratama (2020 - 2021)
+              #company_logo: 
               company_url: 
               designation: Information and Communication Technology (ICT) Teacher
               description: Worked as a Teacher for about a year.
+              visibility: true
+            - company_name: PT Indomarco Prismatama (2021 - 2023)
+              #company_logo: 
+              company_url: 
+              designation: Admin & Benefit - Human Resources
+              description: Worked for 2 years as Admin and Benefit in Human Resources Department.
               visibility: true
 
 # Education
