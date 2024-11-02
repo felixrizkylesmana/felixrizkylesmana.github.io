@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
+- name: Corel Draw
   percentage: 95
+  color: succes
+
+- name: Microsoft Office
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
+- name: Linux
   percentage: 90
-  color: success
+  color: danger

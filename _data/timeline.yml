@@ -1,17 +1,19 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, University Bina Sarana Informatika
+  from: 2020
+  to: 2023
+  description: I studied faculty of Information System at University Bina Sarana Informatika
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Graphic Designer, FT Grafis
+  from: 2020
+  to: 2021
+  description: Worked as a Graphic Designer for about a year.
+
+- title: Information and Communication Technology (ICT) Teacher
+  from: 2020
+  to: 2021
+  description: Worked as a Teacher for about a year at SMP Santa Monika & SMA Widya Pratama.
+
+- title: Admin & Benefit - Human Resources
+  from: 2021
+  to: 2023
+  description: Worked for 2 years as Admin and Benefit in Human Resources Department - PT Indomarco Prismatama.

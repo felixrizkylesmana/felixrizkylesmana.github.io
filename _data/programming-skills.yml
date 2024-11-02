@@ -2,7 +2,7 @@
   percentage: 90
   color: danger
 
-- name: Go
+- name: PHP
   percentage: 80
   color:
 
