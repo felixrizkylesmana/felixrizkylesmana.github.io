@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Felix Rizky Lesmana
 description         : >-
-                      I'am a person who is very interested in the world of technology, 
-                      starting from Graphic Design, Operating Systems and Programming. 
-                      Therefore, I am very happy to implement and share what I already know and have with others.
+                      HI, I'm just an ordinary human being who loves the world of technology.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : felixrizkylesmana/felixrizkylesmana.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
