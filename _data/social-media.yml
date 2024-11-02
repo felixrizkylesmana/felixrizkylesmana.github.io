@@ -95,8 +95,3 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
-
-mastodon:
-  url   : https://www.mastodon.social/
-  icon  : fab fa-mastodon
-  color : 6364FF
