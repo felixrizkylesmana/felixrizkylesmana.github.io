@@ -34,19 +34,19 @@ typewrite-text: Welcome to my website. You can check my Portfolio and Blog in he
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
-# author_work_experiences:
-#             - company_name: Google
-#               company_logo: google.png
-#               company_url: https://google.com
-#               designation: Software Engineer
-#               description: Worked on various Google Products
-#               visibility: true
-#             - company_name: Microsoft
-#               company_logo: microsoft.png
-#               company_url: https://microsoft.com
-#               designation: Azure Developer
-#               description: Worked on various Azure Cloud Products
-#               visibility: true
+author_work_experiences:
+            - company_name: FT Grafis
+              company_logo: 
+              company_url: 
+              designation: Graphic Designer
+              description: Worked as a Graphic Designer for about a year.
+              visibility: true
+            - company_name: SMP Santa Monika & SMA Widya Pratama
+              company_logo: 
+              company_url: 
+              designation: Information and Communication Technology (ICT) Teacher
+              description: Worked as a Teacher for about a year.
+              visibility: true
 
 # Education
 # author_education_details:
