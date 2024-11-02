@@ -7,10 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I'am **{{ site.author.name }}** :wave:,<br>
-I'am a person who is very interested in the world of technology, 
-starting from Graphic Design, Operating Systems and Programming. 
-Therefore, I am very happy to implement and share what I already know and have with others.
+Hi I'm **{{ site.author.name }}** :wave:,<br>
+I am a person who is very interested in the world of technology, starting from Graphic Design, Operating Systems, and Programming. Therefore, I am very happy to apply and share what I already know and have to others.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
