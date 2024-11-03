@@ -32,7 +32,7 @@ class HelloWorld {
 print("Hello, World!")
 ```
 
-## Sejarah Bahasa Python
+## Sejarah Singkat Bahasa Python
 
 Bahasa pemograman Python mulai dikembangkan pada tahun 1989 oleh programmer asal belanda bernama **Guido Van Rossum** di *Centrum Wiskunde & Informatica (CWI) di Amsterdam*. Nama Python sendiri terinspirasi dari sebuah acara TV bernama BBC Monty Python's Flying Circus yang merupakan acara favorit dari Guido Van Rossum.
 
