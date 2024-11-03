@@ -11,7 +11,7 @@ Hai, teman-teman pada tulisan kali ini saya akan membuat tutorial dasar belajar 
 ##   Alasan Mengapa Belajar Bahasa Python?
 Alasan pertama kita belajar bahasa pemrograman python adalah **mudah dimengerti**, yap! benar banget, bahasa pemrograman python lebih mudah dimengerti dikarenakan bahasa pemrograman python mempunyai sintaks yang sangat sederhana jika kita bandingkan dengan bahasa pemrograman yang lain, bisa dikatakan struktur kode program di python mirip dengan bahasa inggris sehari-hari sehingga membuat python lebih mudah untuk dipahami, sebagai contoh berikut perbandingan sintaks bahasa pemrograman python dengan bahasa pemrograman yang lainnya.
 
-`C++`
+**`C++`**
 ```c++
 #include <iostream>
 
@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
     return 0;
 }
 ```
-`Java`
+**`Java`**
 ```java
 class Main {
     public static void main(String[] args) {
@@ -29,7 +29,7 @@ class Main {
     }
 }
 ```
-`Python`
+**`Python`**
 ```python
 print("Hello, World!")
 ```
