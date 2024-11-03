@@ -39,7 +39,7 @@ class Main {
 print("Hello, World!")
 ```
 
-Alasan yang kedua ialah **Open Source**, yang berarti siapapun dapat menggunakan bahasa pemrograman python secara bebas dan pastinya gratis tanpa perlu membeli lisensi, dan dikarenakan python bersifat open source hal ini menjadi faktor utama alasan yang ketiga yaitu mempunyai komunitas yang besar,harus kita akui bahwa komunitas python begitu besar dan ini berbanding lurus dengan berkembang pesatnya bahasa python itu sendiri dan tak heran bahasa pemrograman python menjadi begitu populer dikalangan programmer.
+Alasan yang kedua ialah **Open Source**, yang berarti siapapun dapat menggunakan bahasa pemrograman python secara bebas dan pastinya gratis tanpa perlu membeli lisensi, dan karena python bersifat open source hal ini menjadi faktor utama alasan yang ketiga yaitu mempunyai komunitas yang besar,harus kita akui bahwa komunitas python begitu besar dan ini berbanding lurus dengan berkembang pesatnya bahasa python itu sendiri dan tak heran bahasa pemrograman python menjadi begitu populer di kalangan programmer.
 
 ## Sejarah Singkat Bahasa Python
 
