@@ -9,7 +9,7 @@ description: Pengenalan Bahasa Pemrograman Python
  Hai, teman-teman pada tulisan kali ini saya akan membuat tutorial dasar belajar bahasa pemrograman, dan bahasa pemrograman yang akan kita bahas pada kali ini adalah bahasa **Python**. Disini kita akan belajar dari hal yang dasar banget, jadi buat teman-teman yang belum tau sama sekali tentang python ataupun pemrograman itu sendiri bisa mengikuti tutorial kali ini.
  
 ##   Alasan Mengapa Belajar Bahasa Python?
-Alasan pertama kita belajar bahasa pemrograman python adalah **mudah dimengerti**, yap! benar banget, bahasa pemrograman python lebih mudah dimengerti dikarenakan jika kita membandingkan dengan bahasa pemrograman yang lain, Bahasa pemrograman python mempunyai sintaks yang sangat sederhana bisa dikatakan struktur kode program di python mirip dengan bahasa inggris sehari-hari sehingga membuat python lebih mudah untuk dipahami, sebagai contoh berikut perbandingan sintaks bahasa pemrograman python dengan bahasa pemrograman yang lainnya.
+Alasan pertama kita belajar bahasa pemrograman python adalah **mudah dimengerti**, yap! benar banget, bahasa pemrograman python lebih mudah dimengerti dikarenakan bahasa pemrograman python mempunyai sintaks yang sangat sederhana jika kita bandingkan dengan bahasa pemrograman yang lain, bisa dikatakan struktur kode program di python mirip dengan bahasa inggris sehari-hari sehingga membuat python lebih mudah untuk dipahami, sebagai contoh berikut perbandingan sintaks bahasa pemrograman python dengan bahasa pemrograman yang lainnya.
 
 `C++`
 ```c++
