@@ -32,6 +32,8 @@ class HelloWorld {
 print("Hello, World!")
 ```
 
+Alasan yang kedua ialah **Open Source**, yang berarti siapapun dapat menggunakan bahasa pemrograman python secara bebas dan pastinya gratis tanpa perlu membeli lisensi, dan dikarenakan python bersifat open source hal ini menjadi faktor utama alasan yang ketiga yaitu mempunyai komunitas yang besar,harus kita akui bahwa komunitas python begitu besar dan ini berbanding lurus dengan berkembang pesatnya bahasa python itu sendiri dan tak heran bahasa pemrograman python menjadi begitu populer dikalangan programmer.
+
 ## Sejarah Singkat Bahasa Python
 
 Bahasa pemograman Python mulai dikembangkan pada tahun 1989 oleh programmer asal belanda bernama **Guido Van Rossum** di *Centrum Wiskunde & Informatica (CWI) di Amsterdam*. Nama Python sendiri terinspirasi dari sebuah acara TV bernama *BBC Monty Python's Flying Circus* yang merupakan acara favorit dari Guido Van Rossum.
