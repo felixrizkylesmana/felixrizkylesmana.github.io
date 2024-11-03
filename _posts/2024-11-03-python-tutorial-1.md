@@ -1,0 +1,45 @@
+---
+title: Tutorial Dasar Pemrograman Python (Pengenalan)
+tags: [Tutorial, Python]
+style: fill
+color: info
+description: Pengenalan Bahasa Pemrograman Python
+---
+# Tutorial Dasar Pemrograman Python
+ Hai, teman-teman pada tulisan kali ini saya akan membuat tutorial dasar belajar bahasa pemrograman, dan bahasa pemrograman yang akan kita bahas pada kali ini adalah bahasa python. Disini kita akan belajar dari hal yang dasar banget, jadi buat teman-teman yang belum tau sama sekali tentang python ataupun pemrograman itu sendiri bisa mengikuti tutorial kali ini.
+ 
+##   Alasan Mengapa Belajar Bahasa Python?
+Alasan pertama kita belajar bahasa pemrograman python adalah **mudah dimengerti**, yap! benar banget, bahasa pemrograman python lebih mudah dimengerti dikarenakan jika kita membandingkan dengan bahasa pemrograman yang lain, Bahasa pemrograman python mempunyai sintaks yang sangat sederhana bisa dikatakan struktur kode program di python mirip dengan bahasa inggris sehari-hari sehingga membuat python lebih mudah untuk dipahami, sebagai contoh berikut perbandingan sintaks bahasa pemrograman python dengan bahasa pemrograman yang lainnya.
+
+****C++****
+```
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!";
+    return 0;
+}
+```
+****Java****
+```
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+```
+****Python****
+```
+print("Hello, World!")
+```
+
+## Sejarah Bahasa Python
+
+Bahasa pemograman Python mulai dikembangkan pada tahun 1989 oleh programmer asal belanda bernama **Guido Van Rossum** di *Centrum Wiskunde & Informatica (CWI) di Amsterdam*. Nama Python sendiri terinspirasi dari sebuah acara TV bernama BBC Monty Python's Flying Circus yang merupakan acara favorit dari Guido Van Rossum.
+
+Bahasa Python mulai dirilis pertama kali pada tahun 1991 dengan versi 0.9.0, dan sampai tulisan ini dibuat python sudah merilis sampai versi 3.13.0, tentunya dengan banyak sekali fitur yang telah ditanamkan kedalam bahasa python yang menjadi satu alasan kenapa bahasa python begitu populer dikalangan programmer.
+
+Berikut sedikit pengenalan tentang bahasa pemograman python, pada tutorial dasar pemrograman python selanjutnya kita akan membahas **"Hal apa saja yang perlu disiapkan saat belajar python"**, saya harap teman-teman suka dengan pembahasan kali ini, sampai jumpa di tutorial selanjutnya 😀
+
+
+
+ 
