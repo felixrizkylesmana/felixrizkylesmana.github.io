@@ -34,7 +34,7 @@ print("Hello, World!")
 
 ## Sejarah Singkat Bahasa Python
 
-Bahasa pemograman Python mulai dikembangkan pada tahun 1989 oleh programmer asal belanda bernama **Guido Van Rossum** di *Centrum Wiskunde & Informatica (CWI) di Amsterdam*. Nama Python sendiri terinspirasi dari sebuah acara TV bernama BBC Monty Python's Flying Circus yang merupakan acara favorit dari Guido Van Rossum.
+Bahasa pemograman Python mulai dikembangkan pada tahun 1989 oleh programmer asal belanda bernama **Guido Van Rossum** di *Centrum Wiskunde & Informatica (CWI) di Amsterdam*. Nama Python sendiri terinspirasi dari sebuah acara TV bernama *BBC Monty Python's Flying Circus* yang merupakan acara favorit dari Guido Van Rossum.
 
 Bahasa Python mulai dirilis pertama kali pada tahun 1991 dengan versi 0.9.0, dan sampai tulisan ini dibuat python sudah merilis sampai versi 3.13.0, tentunya dengan banyak sekali fitur yang telah ditanamkan kedalam bahasa python yang menjadi satu alasan kenapa bahasa python begitu populer dikalangan programmer.
 
