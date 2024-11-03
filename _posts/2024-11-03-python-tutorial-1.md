@@ -12,7 +12,7 @@ description: Pengenalan Bahasa Pemrograman Python
 Alasan pertama kita belajar bahasa pemrograman python adalah **mudah dimengerti**, yap! benar banget, bahasa pemrograman python lebih mudah dimengerti dikarenakan jika kita membandingkan dengan bahasa pemrograman yang lain, Bahasa pemrograman python mempunyai sintaks yang sangat sederhana bisa dikatakan struktur kode program di python mirip dengan bahasa inggris sehari-hari sehingga membuat python lebih mudah untuk dipahami, sebagai contoh berikut perbandingan sintaks bahasa pemrograman python dengan bahasa pemrograman yang lainnya.
 
 `C++`
-```
+```c++
 #include <iostream>
 
 int main() {
@@ -21,14 +21,14 @@ int main() {
 }
 ```
 `Java`
-```
+```java
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
 ```
 `Python`
-```
+```python
 print("Hello, World!")
 ```
 
