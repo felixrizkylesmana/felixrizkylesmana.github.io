@@ -5,7 +5,7 @@ style: fill
 color: info
 description: Pengenalan Bahasa Pemrograman Python
 ---
-# Tutorial Dasar Pemrograman Python
+
  Hai, teman-teman pada tulisan kali ini saya akan membuat tutorial dasar belajar bahasa pemrograman, dan bahasa pemrograman yang akan kita bahas pada kali ini adalah bahasa python. Disini kita akan belajar dari hal yang dasar banget, jadi buat teman-teman yang belum tau sama sekali tentang python ataupun pemrograman itu sendiri bisa mengikuti tutorial kali ini.
  
 ##   Alasan Mengapa Belajar Bahasa Python?
