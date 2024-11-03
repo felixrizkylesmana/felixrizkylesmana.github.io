@@ -42,6 +42,8 @@ Bahasa pemograman Python mulai dikembangkan pada tahun 1989 oleh programmer asal
 
 Bahasa Python mulai dirilis pertama kali pada tahun 1991 dengan versi 0.9.0, dan sampai tulisan ini dibuat python sudah merilis sampai versi 3.13.0, tentunya dengan banyak sekali fitur yang telah ditanamkan kedalam bahasa python yang menjadi satu alasan kenapa bahasa python begitu populer dikalangan programmer.
 
+## Penutup
+
 Berikut sedikit pengenalan tentang bahasa pemograman python, pada tutorial dasar pemrograman python selanjutnya kita akan membahas **Hal apa saja yang perlu disiapkan saat belajar python**, saya harap teman-teman suka dengan pembahasan kali ini, sampai jumpa di tutorial selanjutnya 😀
 
 
