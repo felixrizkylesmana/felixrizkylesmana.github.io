@@ -15,17 +15,19 @@ Alasan pertama kita belajar bahasa pemrograman python adalah **mudah dimengerti*
 ```c++
 #include <iostream>
 
-int main() {
-    std::cout << "Hello, World!";
+int main(int argc, char const *argv[]) 
+{
+    std::cout << "Hello, World!" << std::endl;
     return 0;
 }
 ```
 `Java`
 ```java
-class HelloWorld {
+class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
+}
 ```
 `Python`
 ```python
