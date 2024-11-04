@@ -1,5 +1,5 @@
 ---
-title: Tutorial Dasar Pemrograman Python (Pengenalan)
+title: Tutorial Dasar Pemrograman Python (Bag:1 Pengenalan)
 tags: [Tutorial, Python]
 style: fill
 color: info
@@ -49,7 +49,7 @@ Bahasa Python mulai dirilis pertama kali pada tahun 1991 dengan versi 0.9.0, dan
 
 ## Penutup
 
-Demikian sedikit pengenalan tentang bahasa pemrograman python, pada tutorial dasar pemrograman python selanjutnya kita akan membahas **Hal apa saja yang perlu disiapkan saat belajar python**, saya harap teman-teman suka dengan pembahasan kali ini, sampai jumpa di tutorial selanjutnya 😀
+Demikian sedikit pengenalan tentang bahasa pemrograman python, pada tutorial dasar pemrograman python selanjutnya kita akan mulai menginstall aplikasi Visual Studio Code sebagai text Editor dan menginstall python itu sendiri, saya harap teman-teman suka dengan pembahasan kali ini, sampai jumpa di tutorial selanjutnya 😀
 
 
 
