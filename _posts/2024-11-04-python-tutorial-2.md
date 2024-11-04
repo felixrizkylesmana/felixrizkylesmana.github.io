@@ -12,8 +12,8 @@ Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedik
 1. **Download Installer**: Kunjungi situs resmi Python [Link Download](https://www.python.org/downloads/windows/) dan download installer versi terbaru yang stabil (saat tulisan ini ditulis versi 3.13.0).
 2. **Jalankan Installer**: Jalankan file installer yang telah diunduh.
 3. **Pilih Opsi**:
-* Add Python to PATH: Pastikan opsi ini dicentang agar kita bisa menjalankan perintah Python dari mana saja di command prompt.
-* Install launcher for all users: Opsi ini akan menambahkan shortcut Python ke menu Start.
+* **Add Python to PATH**: Pastikan opsi ini dicentang agar kita bisa menjalankan perintah Python dari mana saja di command prompt.
+* **Install launcher for all users**: Opsi ini akan menambahkan shortcut Python ke menu Start.
 4. **Install**: Klik tombol "Install Now" untuk memulai proses instalasi.
 5. **Test Python**: Setelah berhasil menginstall Python, periksa apakah ia berfungsi dengan baik dengan mengetik perintah berikut di CMD/Terminal.
 
