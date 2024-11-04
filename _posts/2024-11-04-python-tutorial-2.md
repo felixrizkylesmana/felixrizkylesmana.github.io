@@ -56,7 +56,7 @@ Python 3.13.0
 **Input:**
 
 >```python
-print('Hello, World!)
+print('Hello, World!')
 ```
 
 **Output:**
