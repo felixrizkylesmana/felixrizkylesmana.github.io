@@ -22,6 +22,7 @@ Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedik
 >```terminal
 python --version
 ```
+
 **Output**
 
 >```terminal
