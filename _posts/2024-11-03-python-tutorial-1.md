@@ -1,5 +1,5 @@
 ---
-title: Tutorial Dasar Pemrograman Python (Bag_1 Pengenalan)
+title: Tutorial Dasar Pemrograman Python (Bagian 1: Pengenalan)
 tags: [Tutorial, Python]
 style: fill
 color: info
