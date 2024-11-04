@@ -5,7 +5,7 @@ style: fill
 color: info
 description: Proses Instalasi Visual Studio Code dan Python
 ---
-Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedikit berkenalan dengan bahasa pemrograman python,kali ini kita akan menginstall aplikasi **Visual Studio** Code yang nantinya kita gunakan sebagai text editor, dan kita juga akan menginstall python itu sendiri.
+Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedikit berkenalan dengan bahasa pemrograman python,kali ini kita akan menginstall aplikasi **Visual Studio Code** yang nantinya kita gunakan sebagai text editor, dan kita juga akan menginstall python itu sendiri.
 
 ## Instalasi Python di Windows
 
@@ -15,6 +15,18 @@ Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedik
 * Add Python to PATH: Pastikan opsi ini dicentang agar kita bisa menjalankan perintah Python dari mana saja di command prompt.
 * Install launcher for all users: Opsi ini akan menambahkan shortcut Python ke menu Start.
 4. **Install**: Klik tombol "Install Now" untuk memulai proses instalasi.
+5. **Test Python**: Setelah berhasil menginstall Python, periksa apakah ia berfungsi dengan baik dengan mengetik perintah berikut di CMD/Terminal.
+
+**Input**
+
+>```terminal
+python --version
+```
+**Output**
+
+>```terminal
+Python 3.13.0
+```
 
 ## Instalasi Visual Studio Code di Windows
 
