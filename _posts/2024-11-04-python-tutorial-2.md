@@ -59,7 +59,7 @@ print('Hello, World!)
 
 **Hasil:**
 
->```python
+>```
 Hello, World!
 ```
 
