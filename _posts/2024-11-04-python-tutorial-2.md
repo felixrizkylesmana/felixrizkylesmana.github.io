@@ -19,13 +19,13 @@ Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedik
 
 **Input**
 
->```terminal
+>```
 python --version
 ```
 
 **Output**
 
->```terminal
+>```
 Python 3.13.0
 ```
 
