@@ -1,5 +1,5 @@
 ---
-title: Tutorial Dasar Pemrograman Python (Bagian 2: Installasi Vscode dan Python)
+title: Tutorial Dasar Pemrograman Python (Bagian_2 Installasi Vscode dan Python)
 tags: [Tutorial, Python]
 style: fill
 color: info
