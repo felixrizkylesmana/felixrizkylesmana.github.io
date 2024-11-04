@@ -1,5 +1,5 @@
 ---
-title: Tutorial Dasar Pemrograman Python (Bag:2 Installasi Vscode dan Python)
+title: Tutorial Dasar Pemrograman Python (Bag_2 Installasi Vscode dan Python)
 tags: [Tutorial, Python]
 style: fill
 color: info
@@ -14,7 +14,7 @@ Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedik
 3. **Pilih Opsi**:
 * Add Python to PATH: Pastikan opsi ini dicentang agar kita bisa menjalankan perintah Python dari mana saja di command prompt.
 * Install launcher for all users: Opsi ini akan menambahkan shortcut Python ke menu Start.
-4. Instal: Klik tombol "Install Now" untuk memulai proses instalasi.
+4. **Instal**: Klik tombol "Install Now" untuk memulai proses instalasi.
 
 ## Instalasi Visual Studio Code di Windows
 
