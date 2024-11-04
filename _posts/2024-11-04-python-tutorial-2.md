@@ -5,7 +5,7 @@ style: fill
 color: info
 description: Proses Instalasi Visual Studio Code dan Python
 ---
-Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedikit berkenalan dengan bahasa pemrograman Python, kali ini kita akan menginstall aplikasi **Visual Studio Code** yang nantinya kita gunakan sebagai text editor, dan kita juga akan menginstall Python itu sendiri.
+Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedikit berkenalan dengan bahasa pemrograman Python, kali ini kita akan menginstall aplikasi **Visual Studio Code** yang nantinya kita gunakan sebagai text editor, dan kita juga akan menginstall **Python** itu sendiri.
 
 ## Instalasi Python
 
@@ -48,7 +48,7 @@ Python 3.13.0
 
 1. **Buat Folder Project**: Buat folder baru di tempat yang kita inginkan dan beri nama `Belajar_Python`
 2. **Buka Folder di Aplikasi Visual Studio Code**: pilih menu File -> Open Folder, lalu pilih folder project yang baru saja kita buat.
-3. **Buat File Python**: Buat file baru dengan extensi `.py` (misalnya test.py).
+3. **Buat File Python**: Buat file baru dengan extensi `.py` (misalnya `test.py`).
 4. **Tulis Kode Program**: Tuliskan kode program Python kedalam file `.py` yang baru saja kita buat.
 5. **Jalankan Program**: Klik kanan di area editor dan pilih "Run Python File in Terminal".
 6. **Hasil**: Jika di CMD/Terminal berhasil menampilkan `Hello, World!`, **Selamat!** berarti kita sudah berhasil membuat project Python pertama kita.
