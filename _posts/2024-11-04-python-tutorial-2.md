@@ -5,7 +5,7 @@ style: fill
 color: info
 description: Proses Instalasi Visual Studio Code dan Python
 ---
-Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedikit berkenalan dengan bahasa pemrograman python, kali ini kita akan menginstall aplikasi **Visual Studio Code** yang nantinya kita gunakan sebagai text editor, dan kita juga akan menginstall python itu sendiri.
+Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedikit berkenalan dengan bahasa pemrograman Python, kali ini kita akan menginstall aplikasi **Visual Studio Code** yang nantinya kita gunakan sebagai text editor, dan kita juga akan menginstall Python itu sendiri.
 
 ## Instalasi Python
 
@@ -51,7 +51,7 @@ Python 3.13.0
 3. **Buat File Python**: Buat file baru dengan extensi `.py` (misalnya test.py).
 4. **Tulis Kode Program**: Tuliskan kode program Python kedalam file `.py` yang baru saja kita buat.
 5. **Jalankan Program**: Klik kanan di area editor dan pilih "Run Python File in Terminal".
-6. **Hasil**: Jika di CMD/Terminal berhasil menampilkan `Hello, World!`, **Selamat!** berarti kita sudah berhasil membuat project python pertama kita.
+6. **Hasil**: Jika di CMD/Terminal berhasil menampilkan `Hello, World!`, **Selamat!** berarti kita sudah berhasil membuat project Python pertama kita.
 
 **Input:**
 
@@ -66,7 +66,7 @@ Hello, World!
 ```
 
 ## Penutup
-Disini kita sudah berhasil menginstall Aplikasi Visual Studio Code dan Python,serta kita juga sudah berhasil membuat dan menjalankan program Python pertama kita, cukup sekian **Tutorial Dasar Pemrograman Python** kita kali ini, selanjutnya kita akan membahas **Aturan Penulisan Sintaks pada Bahasa Pemrograman Python**, Bye! :v:
+Disini kita sudah berhasil menginstall Aplikasi Visual Studio Code dan Python,serta kita juga sudah berhasil membuat dan menjalankan program Python pertama kita, cukup sekian **Tutorial Dasar Pemrograman Python** kita kali ini, selanjutnya kita akan membahas **Aturan Penulisan Sintaks Pada Bahasa Pemrograman Python**, Bye! :v:
 
 
 
