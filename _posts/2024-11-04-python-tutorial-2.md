@@ -3,7 +3,7 @@ title: Tutorial Dasar Pemrograman Python (Bag:2 Installasi Vscode dan Python)
 tags: [Tutorial, Python]
 style: fill
 color: info
-description: Pengenalan Bahasa Pemrograman Python
+description: Proses Instalasi Visual Studio Code dan Python
 ---
 Hai, teman-teman,selamat datang kembali di blog saya, setelah kemarin kita sedikit berkenalan dengan bahasa pemrograman python,kali ini kita akan menginstall aplikasi **Visual Studio** Code yang nantinya kita gunakan sebagai text editor, dan kita juga akan menginstall python itu sendiri.
 
