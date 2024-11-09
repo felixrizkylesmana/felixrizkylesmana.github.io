@@ -16,7 +16,7 @@ Statement? makanan apakah ini? hehe, jadi statement merupakan sebuah kalimat per
 
 >```python
 print('Hello, World!')
-print("Bang Felix begitu tamvan")
+print("Felix begitu tamvan")
 ```
 
 Penulisan statement pada bahasa Python tidak memerlukan tanda titik koma `;` pada akhir statementnya. Namun kita bisa menambahkan tanda titik koma `;` jika kita ingin membuat beberapa statement dalam satu baris.
@@ -24,7 +24,7 @@ Penulisan statement pada bahasa Python tidak memerlukan tanda titik koma `;` pad
 **Contoh:**
 
 >```python
-print('Hello, World!'); print("Bang Felix beneran tamvan pake banget")
+print('Hello, World!'); print("Felix beneran tamvan pake banget")
 ```
 
 Eitsss, namun penulisan seperti di atas tidak direkomendasikan karena akan jadi sulit dibaca.
