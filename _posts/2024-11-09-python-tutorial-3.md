@@ -75,7 +75,6 @@ Blok program merupakan kumpulan dari beberapa statement yang digabungkan dalam s
 # blok percabangan if
 if username == 'felixtamvan':
     print("Selamat Datang Manusia paling Tamvan")
-    
 # blok percabangan for
 for i in range(10):
     print i
