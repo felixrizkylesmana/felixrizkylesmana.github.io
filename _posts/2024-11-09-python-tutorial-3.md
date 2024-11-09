@@ -23,7 +23,7 @@ Penulisan statement pada bahasa Python tidak memerlukan tanda titik koma `;` pad
 
 **Contoh:**
 >```python
-print('Hello, World!'); print("Bang Felix beneran Tamvan pake banget")
+print('Hello, World!'); print("Bang Felix beneran tamvan pake banget")
 ```
 
 Eitsss, namun penulisan seperti di atas tidak direkomendasikan karena akan jadi sulit dibaca.
@@ -31,7 +31,7 @@ Eitsss, namun penulisan seperti di atas tidak direkomendasikan karena akan jadi 
 ## Penulisan String Pada Python
 
 String? hmm, apakah ada hubungannya dengan celana dalam? bukannn yahh, itu beda lagi hehe.
-Singkatnya, **String** adalah salah satu tipe data yang ada dalam bahasa pemrograman, string biasanya berisi sebuah kalimat yang dibungkus menggunakan tanda petik, bisa menggunakan petik tunggal `'` ataupun ~~janda~~ ganda `"`.
+Singkatnya, String adalah salah satu tipe data yang ada dalam bahasa pemrograman, string biasanya berisi sebuah kalimat yang dibungkus menggunakan tanda petik, bisa menggunakan petik tunggal `'` ataupun ~~janda~~ ganda `"`.
 
 **Contoh:**
 
@@ -53,7 +53,9 @@ felix = "felix yang ini"
 Felix = "Berbeda dengan yang ini"
 ```
 
-Berdasarkan rekomendasi dari para Ahli, berikut merupakan contoh penulisan case yang disarankan:
+Berdasarkan rekomendasi dari para Ahli, berikut merupakan contoh penulisan case yang disarankan.
+
+**Contoh:**
 
 >```python
 ## Snake Case digunakan pada:
