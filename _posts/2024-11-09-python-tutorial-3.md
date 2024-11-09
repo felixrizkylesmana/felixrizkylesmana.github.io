@@ -41,8 +41,6 @@ print('ini merupakan string')
 print("ini juga merupakan string")
 ```
 
-Sebenarnya ada beberapa kondisi tertentu yang membuat kita harus menggunakan trik saat menulis string, namun kita akan membahasnya pada materi variabel dan tipe data.
-
 ## Penulisan Case Pada Python 
 
 Perlu kita ketahui bahwa sintaks yang ada pada python itu bersifat *Case Sensitive*, artinya `felix` dan `Felix` merupakan sesuatu yang berbeda,
@@ -77,6 +75,7 @@ Blok program merupakan kumpulan dari beberapa statement yang digabungkan dalam s
 # blok percabangan if
 if username == 'felixtamvan':
     print("Selamat Datang Manusia paling Tamvan")
+    
 # blok percabangan for
 for i in range(10):
     print i
