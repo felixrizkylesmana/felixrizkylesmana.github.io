@@ -93,8 +93,7 @@ print i
 
 ## Penulisan Komentar Pada Python
 
-Komentar merupakan baris kode yang tidak akan dieksekusi. digunakan untuk memberikan informasi tambahan dan untuk menonaktifkan kode. Ada beberapa cara menulis komentar pada pemrograman Python,
-yang pertama dengan menggunakan tanda pagar `#`.
+Komentar merupakan baris kode yang tidak akan dieksekusi. digunakan untuk memberikan informasi tambahan dan untuk menonaktifkan kode. Cara menulis komentar pada pemrograman Python yaitu dengan menggunakan tanda pagar `#`.
 
 **Contoh:**
 
