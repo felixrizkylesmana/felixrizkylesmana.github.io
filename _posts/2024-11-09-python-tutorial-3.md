@@ -26,7 +26,7 @@ Penulisan statement pada bahasa Python tidak memerlukan tanda titik koma `;` pad
 print('Hello, World!'); print("Bang Felix beneran Tamvan pake banget")
 ```
 
-Eitsss, namun penulisan seperti di atas tidak direkomendasikan karena akan sulit dibaca.
+Eitsss, namun penulisan seperti di atas tidak direkomendasikan karena akan jadi sulit dibaca.
 
 ## Penulisan String Pada Python
 
