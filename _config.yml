@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Felix Rizky Lesmana
 description         : >-
-                      HI, I'm just an ordinary human being who loves the world of technology.
+                      All professionals start as beginners.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : felixrizkylesmana/felixrizkylesmana.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
