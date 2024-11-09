@@ -103,4 +103,6 @@ yang pertama dengan menggunakan tanda pagar `#`.
 # Ini juga komentar
 ```
 
+## Penutup
+
 Dan demikianlah kisah percintaan kita pada kali ini, untuk selanjutnya kita akan mencoba mengenal apa itu yang dinamakan Variabel dan Tipe Data pada bahasa pemrograman Python, sampai jumpa lagi yahh 😀
