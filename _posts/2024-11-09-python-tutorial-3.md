@@ -6,7 +6,7 @@ color: info
 description: Aturan-aturan dalam menulis sintaks pada bahasa pemrograman python
 ---
 
-Hai, teman-teman, Akhirnya setelah beberapa hari belum sempat melanjutkan tutorial python di Blog ini, sekarang waktunya kita melanjutkan kembali kisah percintaan kita yang tertunda hehe, oke deh langsung saja kita ke materinya.
+Hai, teman-teman, Akhirnya setelah beberapa hari belum sempat melanjutkan tutorial python di Blog ini, sekarang waktunya kita melanjutkan kembali kisah percintaan kita yang tertunda hehe, okedeh langsung saja kita ke materinya.
 
 ## Penulisan Statement Pada Python
 
