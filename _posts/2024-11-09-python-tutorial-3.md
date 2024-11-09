@@ -22,6 +22,7 @@ print("Bang Felix begitu tamvan")
 Penulisan statement pada bahasa Python tidak memerlukan tanda titik koma `;` pada akhir statementnya. Namun kita bisa menambahkan tanda titik koma `;` jika kita ingin membuat beberapa statement dalam satu baris.
 
 **Contoh:**
+
 >```python
 print('Hello, World!'); print("Bang Felix beneran tamvan pake banget")
 ```
@@ -58,13 +59,11 @@ Berdasarkan rekomendasi dari para Ahli, berikut merupakan contoh penulisan case 
 **Contoh:**
 
 >```python
-## Snake Case digunakan pada:
+# Snake Case digunakan pada:
 module_name, package_name, method_name, function_name, , global_var_name, instance_var_name, function_parameter_name, local_var_name.
-
-## CamelCase digunakan Pada:
+# CamelCase digunakan Pada:
 ClassName, ExceptionName
-
-## ALL CAPS digunakan Pada:
+# ALL CAPS digunakan Pada:
 GLOBAL_CONSTANT_NAME
 ```
 
@@ -78,7 +77,6 @@ Blok program merupakan kumpulan dari beberapa statement yang digabungkan dalam s
 # blok percabangan if
 if username == 'felixtamvan':
     print("Selamat Datang Manusia paling Tamvan")
-
 # blok percabangan for
 for i in range(10):
     print i
@@ -90,7 +88,6 @@ for i in range(10):
 # blok percabangan if
 if username == 'felixtamvan':
 print("Selamat Datang Manusia paling Tamvan")
-
 # blok percabangan for
 for i in range(10):
 print i
