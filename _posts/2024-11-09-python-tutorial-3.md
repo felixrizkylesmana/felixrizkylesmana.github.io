@@ -10,7 +10,7 @@ Hai, teman-teman, Akhirnya setelah beberapa hari belum sempat melanjutkan tutori
 
 ## Penulisan Statement Pada Python
 
-Statement? makanan apakah ini? hehe, jadi Statement merupakan sebuah kalimat perintah atau instruksi yang nantinya akan diproses oleh komputer yang kita gunakan.
+Statement? makanan apakah ini? hehe, jadi statement merupakan sebuah kalimat perintah atau instruksi yang nantinya akan diproses oleh komputer yang kita gunakan.
 
 **Contoh:**
 
