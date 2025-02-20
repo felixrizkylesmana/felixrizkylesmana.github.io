@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Felix Rizky Lesmana
 description         : >-
-                      All professionals start as beginners.
+                      The more I know, the more I realize I know nothing.
+                      ~Socrates
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : felixrizkylesmana/felixrizkylesmana.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
